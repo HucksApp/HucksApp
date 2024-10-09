@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Huck!
 ### ✨ Fullstack Web Developer ✨| Automation|Crypto Currency Enthusiast 🪙 | Building, Coding & Hacking Obsessed 💻
-I'm Huck, a passionate Fullstack Software Developer who loves diving into tough software builds and pushing boundaries! 🔭 From frontend flair to backend brilliance, I craft solutions that are efficient, fun, and packed with innovation.I craft robust software while indulging my obsession with automation and hacking.(white-hat, of course 😉).
+I'm Huck, a passionate Fullstack Software Developer who loves diving into tough software builds and pushing boundaries! 🔭 From frontend flair to backend brilliance, I craft solutions that are efficient, fun, and packed with innovation, while indulging my obsession with automation and hacking.(white-hat, of course 😉).
 
-> 🌟 "Make it work, make it right, make it fun!"
-
+> 🌟 "Make it work, make it right, make it fun!" 🌟
+> 🌟 "Every technological breakthrough begins with a simple idea, fueled by creativity and determination." 🌟
  ### 🔥 What I Do:
  * Fullstack Development: Building dynamic web apps, APIs, and systems from scratch.
  * Automation Wizardry: Obsessed with automating workflows and creating tools that save time.
