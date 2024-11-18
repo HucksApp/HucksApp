@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Hucks!
-### ✨ Fullstack Web Developer ✨| Automation | Crypto Currency Enthusiast 🪙 | Building, Coding AI Tools & Hacking Obsessed 💻
+### ✨ Fullstack Web Developer ✨| Automation | Crypto Currency Enthusiast 🪙 | Building, Coding, AI & Hacking Obsessed 💻
 I'm Hucks, a passionate Fullstack Software Developer who loves diving into tough software builds and pushing boundaries! 🔭 From frontend flair to backend brilliance, I craft solutions that are efficient, fun, and packed with innovation, while indulging my obsession with automation and hacking.(white-hat, of course 😉).
 
 > 🌟 "Make it work, make it right, make it fun!" 🌟
