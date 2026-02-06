@@ -14,7 +14,7 @@ I'm Hucks, a passionate Fullstack Software Developer who loves diving into tough
   "Frontend": ["React", "Vue", "JavaScript", "HTML", "CSS"],
   "Backend": ["Node.js", "Express", "Python", "Django", "Flask"],
   "Databases": ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-  "Others": [ "C", "C++", "Git", "Docker", "CI/CD Pipelines", "Linux", "Automation Tools", "Kali"]
+  "Others": [ "C", "C++", "Rust", "Golang" "Git", "Docker", "CI/CD Pipelines", "Linux", "Automation Tools", "Kali"]
 }
 
 ```
